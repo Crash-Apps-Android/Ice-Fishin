@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "ingredients": ["Apple"],
+        "healthy_score": 9.0
+    },
+    {
+        "id": 2,
+        "name": "Blueberries",
+        "ingredients": ["Blueberries"],
+        "healthy_score": 10.0
+    },
+    {
+        "id": 3,
+        "name": "Spinach",
+        "ingredients": ["Spinach"],
+        "healthy_score": 10.0
+    },
+    {
+        "id": 4,
+        "name": "Kale",
+        "ingredients": ["Kale"],
+        "healthy_score": 10.0
+    },
+    {
+        "id": 5,
+        "name": "Broccoli",
+        "ingredients": ["Broccoli"],
+        "healthy_score": 9.5
+    },
+    {
+        "id": 6,
+        "name": "Grilled Salmon",
+        "ingredients": ["Salmon", "Olive Oil", "Lemon", "Black Pepper"],
+        "healthy_score": 9.8
+    },
+    {
+        "id": 7,
+        "name": "Quinoa Salad",
+        "ingredients": ["Quinoa", "Cucumber", "Cherry Tomatoes", "Olive Oil", "Lemon Juice"],
+        "healthy_score": 9.2
+    },
+    {
+        "id": 8,
+        "name": "Almonds",
+        "ingredients": ["Raw Almonds"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 9,
+        "name": "Walnuts",
+        "ingredients": ["Raw Walnuts"],
+        "healthy_score": 9.0
+    },
+    {
+        "id": 10,
+        "name": "Oatmeal",
+        "ingredients": ["Rolled Oats", "Water"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 11,
+        "name": "Chia Seeds",
+        "ingredients": ["Chia Seeds"],
+        "healthy_score": 9.5
+    },
+    {
+        "id": 12,
+        "name": "Flaxseeds",
+        "ingredients": ["Milled Flaxseeds"],
+        "healthy_score": 9.4
+    },
+    {
+        "id": 13,
+        "name": "Sweet Potato",
+        "ingredients": ["Sweet Potato"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 14,
+        "name": "Avocado",
+        "ingredients": ["Avocado"],
+        "healthy_score": 9.3
+    },
+    {
+        "id": 15,
+        "name": "Lentil Soup",
+        "ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Vegetable Broth"],
+        "healthy_score": 9.1
+    },
+    {
+        "id": 16,
+        "name": "Chickpeas",
+        "ingredients": ["Chickpeas"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 17,
+        "name": "Black Beans",
+        "ingredients": ["Black Beans"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 18,
+        "name": "Edamame",
+        "ingredients": ["Soybeans", "Sea Salt"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 19,
+        "name": "Greek Yogurt",
+        "ingredients": ["Milk", "Live Active Cultures"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 20,
+        "name": "Chicken Breast",
+        "ingredients": ["Skinless Chicken Breast"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 21,
+        "name": "Turkey Breast",
+        "ingredients": ["Skinless Turkey Breast"],
+        "healthy_score": 8.3
+    },
+    {
+        "id": 22,
+        "name": "Tofu",
+        "ingredients": ["Soybeans", "Water", "Calcium Sulfate"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 23,
+        "name": "Tempeh",
+        "ingredients": ["Cultured Soybeans", "Water"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 24,
+        "name": "Green Tea",
+        "ingredients": ["Green Tea Leaves", "Water"],
+        "healthy_score": 9.7
+    },
+    {
+        "id": 25,
+        "name": "Carrots",
+        "ingredients": ["Carrots"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 26,
+        "name": "Tomato",
+        "ingredients": ["Tomato"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 27,
+        "name": "Bell Pepper",
+        "ingredients": ["Bell Pepper"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 28,
+        "name": "Cucumber",
+        "ingredients": ["Cucumber"],
+        "healthy_score": 8.1
+    },
+    {
+        "id": 29,
+        "name": "Zucchini",
+        "ingredients": ["Zucchini"],
+        "healthy_score": 8.3
+    },
+    {
+        "id": 30,
+        "name": "Asparagus",
+        "ingredients": ["Asparagus"],
+        "healthy_score": 9.1
+    },
+    {
+        "id": 31,
+        "name": "Brussels Sprouts",
+        "ingredients": ["Brussels Sprouts"],
+        "healthy_score": 9.4
+    },
+    {
+        "id": 32,
+        "name": "Green Beans",
+        "ingredients": ["Green Beans"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 33,
+        "name": "Peas",
+        "ingredients": ["Green Peas"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 34,
+        "name": "Garlic",
+        "ingredients": ["Garlic"],
+        "healthy_score": 9.9
+    },
+    {
+        "id": 35,
+        "name": "Onion",
+        "ingredients": ["Onion"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 36,
+        "name": "Mushroom",
+        "ingredients": ["Mushrooms"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 37,
+        "name": "Eggplant",
+        "ingredients": ["Eggplant"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 38,
+        "name": "Celery",
+        "ingredients": ["Celery"],
+        "healthy_score": 8.0
+    },
+    {
+        "id": 39,
+        "name": "Radish",
+        "ingredients": ["Radish"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 40,
+        "name": "Banana",
+        "ingredients": ["Banana"],
+        "healthy_score": 8.0
+    },
+    {
+        "id": 41,
+        "name": "Orange",
+        "ingredients": ["Orange"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 42,
+        "name": "Strawberry",
+        "ingredients": ["Strawberry"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 43,
+        "name": "Raspberry",
+        "ingredients": ["Raspberry"],
+        "healthy_score": 9.2
+    },
+    {
+        "id": 44,
+        "name": "Blackberry",
+        "ingredients": ["Blackberry"],
+        "healthy_score": 9.3
+    },
+    {
+        "id": 45,
+        "name": "Kiwi",
+        "ingredients": ["Kiwi"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 46,
+        "name": "Mango",
+        "ingredients": ["Mango"],
+        "healthy_score": 8.1
+    },
+    {
+        "id": 47,
+        "name": "Pineapple",
+        "ingredients": ["Pineapple"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 48,
+        "name": "Watermelon",
+        "ingredients": ["Watermelon"],
+        "healthy_score": 8.0
+    },
+    {
+        "id": 49,
+        "name": "Cantaloupe",
+        "ingredients": ["Cantaloupe"],
+        "healthy_score": 8.3
+    },
+    {
+        "id": 50,
+        "name": "Peach",
+        "ingredients": ["Peach"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 51,
+        "name": "Plum",
+        "ingredients": ["Plum"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 52,
+        "name": "Cherry",
+        "ingredients": ["Cherry"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 53,
+        "name": "Grapefruit",
+        "ingredients": ["Grapefruit"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 54,
+        "name": "Pear",
+        "ingredients": ["Pear"],
+        "healthy_score": 8.1
+    },
+    {
+        "id": 55,
+        "name": "Pomegranate",
+        "ingredients": ["Pomegranate"],
+        "healthy_score": 9.5
+    },
+    {
+        "id": 56,
+        "name": "Fig",
+        "ingredients": ["Fig"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 57,
+        "name": "Papaya",
+        "ingredients": ["Papaya"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 58,
+        "name": "Brown Rice",
+        "ingredients": ["Brown Rice"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 59,
+        "name": "Barley",
+        "ingredients": ["Barley"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 60,
+        "name": "Buckwheat",
+        "ingredients": ["Buckwheat"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 61,
+        "name": "Millet",
+        "ingredients": ["Millet"],
+        "healthy_score": 8.3
+    },
+    {
+        "id": 62,
+        "name": "Pistachios",
+        "ingredients": ["Pistachios"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 63,
+        "name": "Cashews",
+        "ingredients": ["Cashews"],
+        "healthy_score": 8.1
+    },
+    {
+        "id": 64,
+        "name": "Hemp Seeds",
+        "ingredients": ["Hemp Seeds"],
+        "healthy_score": 9.3
+    },
+    {
+        "id": 65,
+        "name": "Pumpkin Seeds",
+        "ingredients": ["Pumpkin Seeds"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 66,
+        "name": "Sunflower Seeds",
+        "ingredients": ["Sunflower Seeds"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 67,
+        "name": "Pecans",
+        "ingredients": ["Pecans"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 68,
+        "name": "Macadamia Nuts",
+        "ingredients": ["Macadamia Nuts"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 69,
+        "name": "Brazil Nuts",
+        "ingredients": ["Brazil Nuts"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 70,
+        "name": "Hazelnuts",
+        "ingredients": ["Hazelnuts"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 71,
+        "name": "Tuna",
+        "ingredients": ["Yellowfin Tuna"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 72,
+        "name": "Kidney Beans",
+        "ingredients": ["Kidney Beans"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 73,
+        "name": "Eggs",
+        "ingredients": ["Whole Eggs"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 74,
+        "name": "Cottage Cheese",
+        "ingredients": ["Low-fat Milk", "Enzymes"],
+        "healthy_score": 8.1
+    },
+    {
+        "id": 75,
+        "name": "Sardines",
+        "ingredients": ["Sardines", "Water"],
+        "healthy_score": 9.6
+    },
+    {
+        "id": 76,
+        "name": "Mackerel",
+        "ingredients": ["Mackerel"],
+        "healthy_score": 9.2
+    },
+    {
+        "id": 77,
+        "name": "Shrimp",
+        "ingredients": ["Shrimp"],
+        "healthy_score": 8.0
+    },
+    {
+        "id": 78,
+        "name": "Cod",
+        "ingredients": ["Cod"],
+        "healthy_score": 8.4
+    },
+    {
+        "id": 79,
+        "name": "Halibut",
+        "ingredients": ["Halibut"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 80,
+        "name": "Hummus",
+        "ingredients": ["Chickpeas", "Tahini", "Lemon Juice", "Garlic", "Olive Oil"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 81,
+        "name": "Guacamole",
+        "ingredients": ["Avocado", "Lime Juice", "Cilantro", "Onion", "Jalapeno"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 82,
+        "name": "Oatmeal with Berries",
+        "ingredients": ["Oats", "Mixed Berries", "Water"],
+        "healthy_score": 9.4
+    },
+    {
+        "id": 83,
+        "name": "Grilled Veggie Skewers",
+        "ingredients": ["Zucchini", "Bell Pepper", "Onion", "Olive Oil"],
+        "healthy_score": 9.0
+    },
+    {
+        "id": 84,
+        "name": "Avocado Toast",
+        "ingredients": ["Whole Grain Bread", "Avocado", "Black Pepper"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 85,
+        "name": "Chicken Salad",
+        "ingredients": ["Chicken Breast", "Celery", "Greek Yogurt", "Mustard"],
+        "healthy_score": 8.5
+    },
+    {
+        "id": 86,
+        "name": "Steamed Broccoli with Lemon",
+        "ingredients": ["Broccoli", "Lemon Juice"],
+        "healthy_score": 9.6
+    },
+    {
+        "id": 87,
+        "name": "Spinach Salad",
+        "ingredients": ["Spinach", "Walnuts", "Balsamic Vinegar"],
+        "healthy_score": 9.5
+    },
+    {
+        "id": 88,
+        "name": "Baked Sweet Potato Fries",
+        "ingredients": ["Sweet Potato", "Olive Oil", "Paprika"],
+        "healthy_score": 8.2
+    },
+    {
+        "id": 89,
+        "name": "Chia Pudding",
+        "ingredients": ["Chia Seeds", "Almond Milk", "Vanilla Extract"],
+        "healthy_score": 9.1
+    },
+    {
+        "id": 90,
+        "name": "Green Smoothie",
+        "ingredients": ["Spinach", "Banana", "Almond Milk", "Flaxseeds"],
+        "healthy_score": 9.3
+    },
+    {
+        "id": 91,
+        "name": "Veggie Omelet",
+        "ingredients": ["Eggs", "Spinach", "Tomatoes", "Mushrooms"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 92,
+        "name": "Stuffed Bell Peppers",
+        "ingredients": ["Bell Peppers", "Quinoa", "Black Beans", "Corn"],
+        "healthy_score": 9.0
+    },
+    {
+        "id": 93,
+        "name": "Black Bean Salad",
+        "ingredients": ["Black Beans", "Corn", "Red Onion", "Lime Juice"],
+        "healthy_score": 8.9
+    },
+    {
+        "id": 94,
+        "name": "Tomato Basil Soup",
+        "ingredients": ["Tomatoes", "Vegetable Broth", "Basil", "Garlic"],
+        "healthy_score": 8.7
+    },
+    {
+        "id": 95,
+        "name": "Roasted Chickpeas",
+        "ingredients": ["Chickpeas", "Olive Oil", "Cumin", "Paprika"],
+        "healthy_score": 8.6
+    },
+    {
+        "id": 96,
+        "name": "Salmon and Asparagus",
+        "ingredients": ["Salmon", "Asparagus", "Lemon", "Olive Oil"],
+        "healthy_score": 9.7
+    },
+    {
+        "id": 97,
+        "name": "Tofu Stir-fry",
+        "ingredients": ["Tofu", "Broccoli", "Carrots", "Soy Sauce", "Ginger"],
+        "healthy_score": 8.8
+    },
+    {
+        "id": 98,
+        "name": "Cauliflower Rice",
+        "ingredients": ["Cauliflower"],
+        "healthy_score": 9.2
+    },
+    {
+        "id": 99,
+        "name": "Olive Oil",
+        "ingredients": ["Extra Virgin Olive Oil"],
+        "healthy_score": 9.0
+    },
+    {
+        "id": 100,
+        "name": "Kombucha",
+        "ingredients": ["Fermented Tea", "Cane Sugar", "Live Cultures"],
+        "healthy_score": 8.1
+    }
+]
