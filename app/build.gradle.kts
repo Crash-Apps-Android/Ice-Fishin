@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.ice.eco.fishin"
+    namespace = "com.ecohabit.compass"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.ice.eco.fishin"
+        applicationId = "com.ecohabit.compass"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

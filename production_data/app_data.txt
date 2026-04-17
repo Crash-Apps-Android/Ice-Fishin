@@ -1,4 +1,4 @@
-App name: Ice Fishin
-Package: com.ice.eco.fishin
-Short description: Ice Fishin - Chase your streak and build your cold-water eco mastery today.
-Full description: Ice Fishin helps you build better daily habits through a focused, reward-like eco experience. Track your visit streak, mark daily habits, count recycled waste by category, and log money saved from greener choices while watching your virtual trees grow. Plan your day with guided eco actions, reorder personal goals by priority, and test your knowledge with a quick educational quiz. You can also search healthy foods and review their score to support smarter decisions. Everything is designed to keep progress clear, motivating, and easy to continue every day.
+App name: Eco Habit Compass
+Package: com.ecohabit.compass
+Short description: Eco Habit Compass - Chase your streak and build your cold-water eco mastery today.
+Full description: Eco Habit Compass helps you build better daily habits through a focused, reward-like eco experience. Track your visit streak, mark daily habits, count recycled waste by category, and log money saved from greener choices while watching your virtual trees grow. Plan your day with guided eco actions, reorder personal goals by priority, and test your knowledge with a quick educational quiz. You can also search healthy foods and review their score to support smarter decisions. Everything is designed to keep progress clear, motivating, and easy to continue every day.
